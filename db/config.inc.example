@@ -1,0 +1,10 @@
+<?php
+
+// copy this file to config.inc and fill it with the right information
+
+$db_user = "dbuser";
+$db_pass = "dbpass"; // can be empty
+$db_host = "dbhost"; // e.g. localhost
+$db_name = "dbname"; // e.g. bugtraq
+
+?>
